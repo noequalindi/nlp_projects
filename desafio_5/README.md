@@ -16,3 +16,6 @@ Datasets:
 1. [model_3_classes_fine_tuning](https://colab.research.google.com/drive/1p07TFdqyEyjyshoqsSgQuSbr_y7ARg2j?usp=sharing)
 2. [model_3_classes_no_fine_tuning](https://colab.research.google.com/drive/1e0PGS5iT7GM-ckSFCJ05hs4lcL8K_lVu?usp=sharing)
 3. [model_5_classes_no_fine_tuning](https://colab.research.google.com/drive/1IxbN5n8TRUdF5EkSMmh7KUjn8J-LzJ3g?usp=sharing)
+
+### Disponibilización del modelo entrenado | arquitectura + pesos entrenados
+[BERT model - weights](https://drive.google.com/drive/folders/1aOPDlwsYyvBEx7-pZZ66-ctb-50mgMzJ?usp=sharing)
