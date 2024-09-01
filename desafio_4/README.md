@@ -1,5 +1,5 @@
 # Chatbot QA with LSTM
-
+Consigna
 1. Construir QA Bot basado en el ejemplo del traductor pero con un dataset QA.
 
 Recomendaciones:
@@ -16,4 +16,4 @@ Dataset: [data_volunteers.json](https://drive.google.com/uc?id=1awUxYwImF84MIT5-
 `python ^3.10`
 
 ### Colab 
-[Chatbot QA]{https://colab.research.google.com/drive/1fQyH7ht-W690_l334LhMmsBMkTr_OMrV?usp=sharing}
+[Chatbot QA](https://colab.research.google.com/drive/1fQyH7ht-W690_l334LhMmsBMkTr_OMrV?usp=sharing)
