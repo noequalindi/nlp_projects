@@ -62,7 +62,10 @@ Se realizaron distintas estrategias como:
 2. [model_3_classes_no_fine_tuning](https://colab.research.google.com/drive/1e0PGS5iT7GM-ckSFCJ05hs4lcL8K_lVu?usp=sharing)
 3. [model_5_classes_no_fine_tuning](https://colab.research.google.com/drive/1IxbN5n8TRUdF5EkSMmh7KUjn8J-LzJ3g?usp=sharing)
 
-El modelo elegido para este ejemplo es al que se le realizo fine tuning ya que es el que mejor accuracy y precisión tuvo: 
+### Disponibilización del modelo entrenado | arquitectura + pesos entrenados
+- [BERT model - weights](https://drive.google.com/drive/folders/1aOPDlwsYyvBEx7-pZZ66-ctb-50mgMzJ)
+
+El modelo elegido para este ejemplo es al que se le realizó fine tuning, con el mejor rendimiento. 
 
 ![alt text](img/image-1.png)
 ![alt text](img/image.png)
